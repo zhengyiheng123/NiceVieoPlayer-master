@@ -15,13 +15,13 @@ import com.xiao.nicevieoplayer.example.util.DataUtil;
  */
 
 public class ListViewActivity extends AppCompatActivity {
-    //zhengyiheng
+    
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_listview);
         initView();
-    }    
+    }
 
     private void initView() {
         ListView lv_video= (ListView) findViewById(R.id.lv_video);
