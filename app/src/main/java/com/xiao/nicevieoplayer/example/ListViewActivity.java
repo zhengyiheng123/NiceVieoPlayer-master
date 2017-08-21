@@ -15,7 +15,6 @@ import com.xiao.nicevieoplayer.example.util.DataUtil;
  */
 
 public class ListViewActivity extends AppCompatActivity {
-    //zhengyiheng
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
