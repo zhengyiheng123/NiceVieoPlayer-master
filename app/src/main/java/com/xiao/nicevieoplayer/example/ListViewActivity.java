@@ -20,7 +20,7 @@ public class ListViewActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_listview);
         initView();
-    }
+    } 
 
     private void initView() {
         ListView lv_video= (ListView) findViewById(R.id.lv_video);
