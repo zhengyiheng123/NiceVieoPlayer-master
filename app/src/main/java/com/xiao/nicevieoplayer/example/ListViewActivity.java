@@ -15,8 +15,8 @@ import com.xiao.nicevieoplayer.example.util.DataUtil;
  */
 
 public class ListViewActivity extends AppCompatActivity {
-    
-    @Override
+    //zhengyiheng lalalla
+    @Override  
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_listview);
